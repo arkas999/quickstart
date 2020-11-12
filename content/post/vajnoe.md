@@ -1,6 +1,6 @@
 ---
-date: 
-description: ""
+date: 2020-11-11T12:05:00-05:00
+description: "1"
 featured_image: "/images/exclamation-point-2620929_640.jpg"
 tags: ["scene"]
 title: "Важное"
