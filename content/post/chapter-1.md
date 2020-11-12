@@ -1,6 +1,6 @@
 ---
 date: 
-description: "The Grand Hall"
+description: ""
 featured_image: "/images/exclamation-point-2620929_640.jpg"
 tags: ["scene"]
 title: "Важное"
