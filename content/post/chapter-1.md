@@ -1,7 +1,7 @@
 ---
 date: 
 description: "The Grand Hall"
-featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
+featured_image: "/images/exclamation-point-2620929_640.jpg"
 tags: ["scene"]
 title: "Важное"
 ---
